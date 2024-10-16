@@ -6,9 +6,3 @@ Repositório contendo os algoritmos da cadeira de **Algoritmos e Programação: 
 - Cadeira: 'Algoritmos e Programação: Fundamentos'
 - Professora: Rossana Baptista Queiroz
 
-
-## Listas
-- [Lista 1]()
-- [Lista 2]()
-- [Lista 3]()
-- [Lista 4]()
