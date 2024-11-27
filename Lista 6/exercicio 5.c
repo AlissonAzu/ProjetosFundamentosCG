@@ -21,7 +21,7 @@ int main() {
         }
         printf("\n");
     }
-// Para encontrar o maior e menor valor:
+// Para encontrar o maior e menor valor
     for (int i = 0; i < 4; i++) {
         for (int j = 0; j < 6; j++) {
             if (M[i][j] > maior_valor) {
