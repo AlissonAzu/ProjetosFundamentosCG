@@ -9,8 +9,7 @@ Repositório contendo os algoritmos da cadeira de **Algoritmos e Programação: 
 ----------------------------------------------------------------------------------
 
 # Álbum de Figurinhas Virtual - Trabalho Prático (Grau A)
-
-**Integrantes:** [Seu Nome], [Nome Colega 1], [Nome Colega 2]  
+ 
 **Disciplina:** Algoritmos e Programação: Orientação a Objetos
 
 ---
