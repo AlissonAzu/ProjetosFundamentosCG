@@ -26,7 +26,7 @@ Os requisitos principais do sistema incluíam:
 
 ## 2. Arquitetura e Modelagem Orientada a Objetos
 
-A espinha dorsal do nosso sistema é a modelagem de classes. Nós dividimos as responsabilidades do problema nas seguintes classes, conforme o diagrama UML fornecido:
+A espinha dorsal do sistema é a modelagem de classes. Foi dividido as responsabilidades do problema nas seguintes classes, conforme o diagrama UML fornecido:
 
 **(Aqui você deve colocar a imagem `image_09fe82.png` no seu README. O Markdown para isso é: `![Diagrama de Classes](image_09fe82.png)`)**
 
